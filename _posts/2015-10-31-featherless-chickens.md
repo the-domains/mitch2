@@ -1,24 +1,24 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: There are none of these
-datePublished: '2015-10-31T03:51:25.436Z'
-dateModified: '2015-10-31T03:51:21.381Z'
+datePublished: '2015-10-31T03:51:46.075Z'
+dateModified: '2015-10-31T03:51:42.066Z'
 title: Featherless Chickens
+sourcePath: _posts/2015-10-31-featherless-chickens.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-31-featherless-chickens.md
-published: true
 url: featherless-chickens/index.html
-_type: MediaObject
+_type: WebPage
 
 ---
 Instead, before the debate, major Bush donors were fretting openly to reporters (not just swiping at Bush anonymously) that his campaign was in a potential "[death spiral][0]." Those concerns may grow larger and louder now, especially given that Rubio and (in my view at least) Christie had effective debates and are plausible replacements for Bush in the "establishment" lane of the GOP field.
