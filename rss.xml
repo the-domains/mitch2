@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mitch2]]></title>
         <description><![CDATA[mitch2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mitch2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 03:48:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 03:49:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mitch2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>this is the homepage</p>]]></description>
-            <link>undefinedb0a30651-ce0a-4768-94f5-cd07b21515e0/index.html</link>
+            <link>https://thegrid.ai/mitch2/b0a30651-ce0a-4768-94f5-cd07b21515e0/index.html</link>
             <guid isPermaLink="false">b0a30651-ce0a-4768-94f5-cd07b21515e0</guid>
-            <pubDate>Sat, 31 Oct 2015 03:48:36 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2015 03:49:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
