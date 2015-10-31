@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: There are none of these
-datePublished: '2015-10-31T03:42:59.075Z'
-dateModified: '2015-10-31T03:42:29.853Z'
+datePublished: '2015-10-31T03:49:54.052Z'
+dateModified: '2015-10-31T03:49:26.009Z'
 title: Featherless Chickens
 authors: []
 publisher:
