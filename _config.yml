@@ -1,6 +1,6 @@
 name: mitch2
 favicon: null
-layout_spectrum: 0.6810784577392042
+layout_spectrum: 0.07288
 typography_spectrum: 0.23986374586820602
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.9523594239726663
+  brandStrength: 0.5
   lightness: 0.06208979384973645
   saturation: 0.7542527348268777
   rhythmicContrast: 0.6938840858638287
